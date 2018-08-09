@@ -1,2 +1,2 @@
 # mohanraju
-sel learner,adpative
+self learner,adpative
