@@ -1,2 +1,2 @@
 # mohanraju
-i am very cute
+sel learner,adpative
